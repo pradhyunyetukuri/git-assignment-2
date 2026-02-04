@@ -63,7 +63,7 @@ git status
 3. Pull the latest changes from GitHub:
 git pull
 
-4. Add a new line below:
+4. Add a new line below: \
 WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
 
 5. Add, commit, and push your changes:
